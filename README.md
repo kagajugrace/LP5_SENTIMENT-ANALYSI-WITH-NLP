@@ -12,8 +12,7 @@ The streamlit app end-user displays or expressed an input text and displays a vi
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP5 | SENTIMENT-ANALYSI-WITH-NLP
- |  [Best article of the world](https://medium.com/@kagajugrace/sentiment-analysis-with-natural-language-processing-using-hugging-face-6dcf6442725e) | [Best app of the world](https://huggingface.co/spaces/kagaju/SENTIMENT_ANALYSIS_APP) |
+| LP5 | SENTIMENT-ANALYSI-WITH-NLP| [Best article of the world](https://medium.com/@kagajugrace/sentiment-analysis-with-natural-language-processing-using-hugging-face-6dcf6442725e) | [Best app of the world](https://huggingface.co/spaces/kagaju/SENTIMENT_ANALYSIS_APP) |
 
 
 # Author 
