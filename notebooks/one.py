@@ -3,8 +3,8 @@ import transformers
 import torch
 
 # Load the model and tokenizer
-model = transformers.AutoModelForSequenceClassification.from_pretrained("RICHARDMENSAH/twitter_xlm_roberta_base")
-tokenizer = transformers.AutoTokenizer.from_pretrained("RICHARDMENSAH/twitter_xlm_roberta_base")
+model = transformers.AutoModelForSequenceClassification.from_pretrained("GraceKagaju/twitter_xlm_roberta_base")
+tokenizer = transformers.AutoTokenizer.from_pretrained("GraceKagaju/twitter_xlm_roberta_base")
 
 # Define the function for sentiment analysis
 @st.cache_resource
